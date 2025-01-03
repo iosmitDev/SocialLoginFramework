@@ -7,12 +7,12 @@
 
 import UIKit
 
-class LoginVC: UIViewController {
+public class LoginVC: UIViewController {
     let string1 = "hello"
     
     public static let storyboardVC = UIStoryboard(name: "LoginVC", bundle: Bundle.module).instantiateInitialViewController()!
 
-    override func viewDidLoad() {
+    public override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
