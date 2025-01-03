@@ -1,4 +1,4 @@
-# SocialLogin Framework
+# SocialLoginFramework Framework
 
 ## Installation
 
