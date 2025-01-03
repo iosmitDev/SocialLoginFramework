@@ -2,7 +2,7 @@
 
 ## Installation
 
-To install this package , import 'url here' in SPM.
+To install this package , import `https://github.com/iosmitDev/SocialLoginFramework.git` in SPM.
 
 ## Usage example
 
